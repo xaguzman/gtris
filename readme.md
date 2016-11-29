@@ -1,6 +1,7 @@
 # GTRIS
 
-Java tetris-like game created using eclipse
+My first contact with gamedev.
+A Java tetris-like game created using eclipse.
 
 # Controls
  
